@@ -1,2 +1,2 @@
-web: Vendor/bin/heroku-php-nginx -C Config/nginx.conf webroot
+web: vendor/bin/heroku-php-nginx -C config/nginx.conf webroot
 
