@@ -41,7 +41,7 @@ $cakeDescription = 'KAVE.IN';
   <body class="home">
     <header>
       <div class="header-image">
-        <?= $this->Html->image('kave.icon.png') ?>
+        <?= $this->Html->image('kave.icon.png', array('fullBase' => true)) ?>
         <h1>Get the Ovens Ready</h1>
       </div>
     </header>
